@@ -2,15 +2,10 @@
 
 ### 1. for문
 ---
-<img width="446" height="93" alt="Image" src="https://github.com/user-attachments/assets/da7c0b67-f409-4b64-a5d7-0c666177f471" />
 
-![alt text](../img/{B7D358F5-871B-43B7-8A5B-E025202FDC49}.png)
 **※for문의 기본형태**
-![alt text](../img/My_Image/{86AD4045-47FF-4DA1-953C-1BBCAFFA4721}.png)
+<a href='https://postimg.cc/vxmBvChj' target='_blank'><img src='https://i.postimg.cc/vxmBvChj/86AD4045-47FF-4DA1-953C-1BBCAFFA4721.png' border='0' alt='86AD4045-47FF-4DA1-953C-1BBCAFFA4721'></a>
 
-![[{D064C3E3-57A9-4B3B-BDB0-1D4A12F01F6D}.png]]
-
-![alt text](../img/{86AD4045-47FF-4DA1-953C-1BBCAFFA4721}.png)
 ▶ 증감식을 따라 counter가 1회 시행때마다 1씩 증가하며 조건식이 false가 나오면 반복을 종료함
 
 

@@ -4,7 +4,7 @@
 ---
 
 **※for문의 기본형태**
-<a href='https://postimg.cc/vxmBvChj' target='_blank'><img src='https://i.postimg.cc/vxmBvChj/86AD4045-47FF-4DA1-953C-1BBCAFFA4721.png' border='0' alt='86AD4045-47FF-4DA1-953C-1BBCAFFA4721'></a>
+![for문 내용](../img/{86AD4045-47FF-4DA1-953C-1BBCAFFA4721}.png)
 
 ▶ 증감식을 따라 counter가 1회 시행때마다 1씩 증가하며 조건식이 false가 나오면 반복을 종료함
 

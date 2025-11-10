@@ -3,11 +3,12 @@
 ### 1. switch문
 ---
 **※switch문의 기본 형태**
-![[{EBA60405-58B6-4B91-86FB-B03B42645D16}.png]]
+
+![](https://velog.velcdn.com/images/iissk/post/95b303e4-1686-4422-8349-034a15c6366a/image.png)
 ▶ 조건에 입력되는 특정한 값에 대한 선택지 설정이 용이함
 ex) 웹RPG처럼 선택지에 따라 이동하는 것에 사용
 
-![[{DC500BFC-558A-47D2-80EC-DF6493926924}.png]]
+![](https://velog.velcdn.com/images/iissk/post/e7adb60a-77ee-49ba-b8ef-8486429e061e/image.png)
 ▶ Console.ReadLine(); 을 통해 유저가 입력한 것에 따라 선택지 선택이 가능
 
 - switch문은 if문에 비해 논리연산이 어렵다.
@@ -17,10 +18,10 @@ ex) 웹RPG처럼 선택지에 따라 이동하는 것에 사용
 ---
 **※두 개의 연산자를 통해 선택지를 고르면 이동하는 게임 만들기**
 
-![[{C6651098-9766-4FC0-BC86-35CE5B1CCECD}.png]]
+![](https://velog.velcdn.com/images/iissk/post/0757ef43-0a59-47a8-aeb1-ec70a2e02f21/image.png)
 ▶ 선택지 출력과 유저 입력을 TryParse로 받는다.
 
-![[{F19C741C-7C42-4D4A-9AB3-49DD56258288}.png]]
+![](https://velog.velcdn.com/images/iissk/post/e95e26eb-fc82-499c-8f69-3118b39fcbe0/image.png)
 ▶ swich문으로 각 선택지에 해당하는 장소로 이동 출력한다.
 ▶ if문으로 유저가 숫자가 아닌 값을 입력할 때 올바르지 않다는 것을 출력한다.
 

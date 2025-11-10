@@ -3,6 +3,8 @@
 ### 1. for문
 ---
 
+![](https://velog.velcdn.com/images/iissk/post/a432ce04-a613-42ba-8894-b3504878194d/image.png)
+
 **※for문의 기본형태**
 ```
 for( 초기식 ; 조건식 ; 증감식)
@@ -11,9 +13,8 @@ for( 초기식 ; 조건식 ; 증감식)
 }
 ```
 
+![](https://velog.velcdn.com/images/iissk/post/63b92ed4-dcda-4bb0-b095-faad5918ffe2/image.png)
 ▶ 증감식을 따라 counter가 1회 시행때마다 1씩 증가하며 조건식이 false가 나오면 반복을 종료함
-
-![alt text](/img/CSharp2_2_1.png)
 
 
 ### 2. 전위연산/후위연산

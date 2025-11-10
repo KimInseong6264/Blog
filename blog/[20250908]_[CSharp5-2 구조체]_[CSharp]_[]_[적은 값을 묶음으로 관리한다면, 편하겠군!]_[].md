@@ -38,9 +38,7 @@
 
 ![](https://velog.velcdn.com/images/iissk/post/9f9ff82d-f6e2-4dca-bc36-49e3c2617330/image.png)
 
-
 ![](https://velog.velcdn.com/images/iissk/post/b431a2b0-e2f9-4270-a99b-f25439c3a973/image.png)
-
 
 ▶ 구조체 자료형으로 변수 지정 후 변수에 *구조체 내의 속성*에 값을 넣어야 함<br>
 ▶ 배열로 지정할 수 있으며, 이 경우 각 배열 각 칸에 값을 입력해주기
@@ -48,7 +46,6 @@
 **※배열에 구조체 넣기**
 
 ![](https://velog.velcdn.com/images/iissk/post/f150f0db-3258-4e41-aafe-a976238dedf3/image.png)
-
 
 1. 구조체 각 변수의 속성들에 각각 값을 지정 
 2. 각 변수들을 새롭게 지정한 배열에 각각 변수를 삽입

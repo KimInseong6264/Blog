@@ -9,8 +9,8 @@
 - 우리가 사용하는 배열은 그 공간의 값을 참조(어디에 값이 저장되어 있다는 것)만을 가리키고 있는 형식
 
 > **입력형태**<br>
-> string[] a(함수명)  = new string[n(빌릴 공간의 수)];<br>
-  ▶ new : 공간을 빌려달라는 연산자<br>
+> string[] a(함수명)  = new string[n(빌릴 공간의 수)]; <br>
+  ▶ new : 공간을 빌려달라는 연산자 <br>
   ▶ string 이외에 int , float 등을 선언가능
 
 ![](https://velog.velcdn.com/images/iissk/post/5057857f-008f-4617-8bd7-f66f9c42bd8b/image.png)

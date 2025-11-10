@@ -5,24 +5,28 @@
 ※ 프로그램 수행시 중첩 반복, 무한반복등의 문제가 발생하는 버그시에 디버그하기에 용이하도록 IDE 내에 내장되어 있는 장치
 
 - F11을 활용하여 디버거 동작
-- 컴퓨터가 어떻게 코딩을 처리하는지 순서대로 확인이 가능
+- 컴퓨터가 어떻게 코딩을 처리하는지 순서대로 확인이 가능 <br> 
   (F11을 추가적으로 입력하여 다음 순서 확인)
+
 
 ![](https://velog.velcdn.com/images/iissk/post/4823ebd8-b0e2-4f73-9602-e3877051f501/image.png)
 ▶ F11을 누르면서 다음 동작을 확인 가능
 
+
 ![](https://velog.velcdn.com/images/iissk/post/916a711d-2675-4450-8611-d08928e73efb/image.png)
 ▶ F11을 눌렀을 때 선택된 줄(노란색)을 수행하고 다음 줄로 넘어감
+
 
 ![](https://velog.velcdn.com/images/iissk/post/4cfb22db-fe0e-4cbc-8835-e562dbefd3c2/image.png)
 ▶ F11을 추가적으로 입력하여 최종적인 출력까지 동작확인
 
 > 필요한 줄을 바로 찾아서 디버깅
-- F9를 입력하여 특정 줄에서부터의 디버그확인 가능(해당 줄 F9 추가 입력시 선택해제)
-- 부분적인 디버깅을 위해서는 F5를 활용한다.(F5를 누르면 선택된 줄로 바로 디버그가 넘어간다.)
+- F9를 입력하여 특정 줄에서부터의 디버그확인 가능 <br> (해당 줄 F9 추가 입력시 선택해제)
+- 부분적인 디버깅을 위해서는 F5를 활용한다. <br>
+(F5를 누르면 선택된 줄로 바로 디버그가 넘어간다.)
 
 ![](https://velog.velcdn.com/images/iissk/post/33cf8aba-ffef-423a-9fe8-664db812cfce/image.png)
-▶ F9를 입력하여 Console.WriteLine(increasingNum); 부터 디버그 확인을 할 수 있음
+▶ F9를 입력하여 ``` Console.WriteLine(increasingNum); ``` 부터 디버그 확인을 할 수 있음
 
 ### 2. 실수의 부정확함
 ---

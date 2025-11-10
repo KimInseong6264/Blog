@@ -5,7 +5,7 @@
 **※switch문의 기본 형태**
 
 ![](https://velog.velcdn.com/images/iissk/post/95b303e4-1686-4422-8349-034a15c6366a/image.png)
-▶ 조건에 입력되는 특정한 값에 대한 선택지 설정이 용이함
+▶ 조건에 입력되는 특정한 값에 대한 선택지 설정이 용이함 <br> 
 ex) 웹RPG처럼 선택지에 따라 이동하는 것에 사용
 
 ![](https://velog.velcdn.com/images/iissk/post/e7adb60a-77ee-49ba-b8ef-8486429e061e/image.png)
@@ -22,7 +22,7 @@ ex) 웹RPG처럼 선택지에 따라 이동하는 것에 사용
 ▶ 선택지 출력과 유저 입력을 TryParse로 받는다.
 
 ![](https://velog.velcdn.com/images/iissk/post/e95e26eb-fc82-499c-8f69-3118b39fcbe0/image.png)
-▶ swich문으로 각 선택지에 해당하는 장소로 이동 출력한다.
+▶ swich문으로 각 선택지에 해당하는 장소로 이동 출력한다. <br> 
 ▶ if문으로 유저가 숫자가 아닌 값을 입력할 때 올바르지 않다는 것을 출력한다.
 
 

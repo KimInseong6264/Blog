@@ -13,7 +13,7 @@ for( 초기식 ; 조건식 ; 증감식)
 
 ▶ 증감식을 따라 counter가 1회 시행때마다 1씩 증가하며 조건식이 false가 나오면 반복을 종료함
 
-![for문](../img/Mine/{B7D358F5-871B-43B7-8A5B-E025202FDC49}.png)
+![alt text](../img/CSharp2_2_1.png)
 
 
 ### 2. 전위연산/후위연산

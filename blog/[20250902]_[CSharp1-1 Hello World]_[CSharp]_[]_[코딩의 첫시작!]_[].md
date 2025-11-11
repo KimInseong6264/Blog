@@ -26,6 +26,4 @@
 
 > ## 🤔 마무리
 > 
-> [](https://github.com/KimInseong6264/KimInseong6264/blob/main/blog/%5B20250902%5D_%5BCSharp1-1.Hello%20World%5D_%5BCSharp%5D_%5B%5D_%5BCSharp%EC%9D%98%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91!%5D_%5B%5D.md#-%EB%A7%88%EB%AC%B4%EB%A6%AC)
-> 
 > 대단한 것을 배운 것은 아니지만 C#을 처음 배운 것에 대해 기대가 된다. 처음 도전을 하는 것이기에 두려움도 있고 잘 할 수 있을지 걱정도 되지만, 이 과정이 분명 후회없는 즐거움으로 다가올 것 같다!

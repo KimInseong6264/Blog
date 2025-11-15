@@ -32,6 +32,9 @@
 
 ![](https://velog.velcdn.com/images/iissk/post/bd695501-b04c-4c39-ba84-28467e0a68a4/image.png)
 
+**※'=>'를 이용해서 간단하게 표현 할 수도 있다.**
+![](https://velog.velcdn.com/images/iissk/post/88fc293b-6fc5-4e55-80af-63f2d7a59aa8/image.png)
+
 
 ### 3. 메서드
 ---
